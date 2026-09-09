@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -25,13 +27,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
