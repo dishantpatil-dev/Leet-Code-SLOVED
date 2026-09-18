@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
