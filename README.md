@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -83,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
