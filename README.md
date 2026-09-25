@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0303-range-sum-query-immutable) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
