@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
