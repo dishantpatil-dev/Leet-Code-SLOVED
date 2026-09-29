@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
