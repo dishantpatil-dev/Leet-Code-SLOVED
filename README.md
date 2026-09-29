@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Counting
 |  |
 | ------- |
@@ -131,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
