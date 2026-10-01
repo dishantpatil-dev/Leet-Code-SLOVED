@@ -1,3 +1,39 @@
+# 🧠 LeetCode SLOVED — DSA Practice
+
+<p align="center"><strong>A growing C++ problem-solving repository focused on patterns, algorithms and interview preparation.</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/dishantpatil-dev/Leet-Code-SLOVED?style=for-the-badge&logo=github&label=STARS" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/dishantpatil-dev/Leet-Code-SLOVED?style=for-the-badge&logo=github&label=FORKS" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/last-commit/dishantpatil-dev/Leet-Code-SLOVED?style=for-the-badge&logo=github&label=UPDATED" alt="Last commit" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Problem%20Solving-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dishantpatil-dev/Leet-Code-SLOVED">⭐ Star the repository</a>
+  ·
+  <a href="https://leetcode.com/u/dishant_patil/">LeetCode Profile</a>
+</p>
+
+---
+
+## 🎯 Purpose
+
+This repository tracks solved LeetCode problems while building pattern recognition for software-engineering interviews.
+
+The focus is not only on collecting solutions, but on learning reusable approaches such as:
+
+**Arrays • Hashing • Two Pointers • Binary Search • Sliding Window • Prefix Sum • Greedy • Recursion • Dynamic Programming • Stacks • Strings • Graphs**
+
+## 📚 Current Coverage
+
+The automatically generated topic index below organizes solved problems by LeetCode topic.
+
+> ⭐ If this collection helps your DSA practice, consider starring the repository.
+
+---
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
