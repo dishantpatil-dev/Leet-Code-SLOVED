@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
