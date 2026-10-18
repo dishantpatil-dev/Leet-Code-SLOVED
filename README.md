@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1470-shuffle-the-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Counting
 |  |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -277,4 +282,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
