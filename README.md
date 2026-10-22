@@ -40,279 +40,279 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0015-3sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0027-remove-element) |
-| [0033-search-in-rotated-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0033-search-in-rotated-sorted-array) |
-| [0035-search-insert-position](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0035-search-insert-position) |
-| [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0053-maximum-subarray) |
-| [0066-plus-one](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0066-plus-one) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-| [0162-find-peak-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0162-find-peak-element) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
-| [0189-rotate-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0189-rotate-array) |
-| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0217-contains-duplicate) |
-| [0238-product-of-array-except-self](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0238-product-of-array-except-self) |
-| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
-| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0303-range-sum-query-immutable) |
-| [0485-max-consecutive-ones](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0485-max-consecutive-ones) |
-| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0852-peak-index-in-a-mountain-array) |
-| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
-| [1470-shuffle-the-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1470-shuffle-the-array) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [1929-concatenation-of-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1929-concatenation-of-array) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2089-find-target-indices-after-sorting-array) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2553-separate-the-digits-in-an-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2553-separate-the-digits-in-an-array) |
-| [2778-sum-of-squares-of-special-elements](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2778-sum-of-squares-of-special-elements) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3727-maximum-alternating-sum-of-squares) |
-| [3886-sum-of-sortable-integers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3886-sum-of-sortable-integers) |
-| [3942-minimum-operations-to-sort-a-permutation](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [0011-container-with-most-water](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0303-range-sum-query-immutable) |
+| [0485-max-consecutive-ones](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0852-peak-index-in-a-mountain-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1470-shuffle-the-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1470-shuffle-the-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1929-concatenation-of-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2149-rearrange-array-elements-by-sign) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2333-minimum-sum-of-squared-difference) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
-| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0217-contains-duplicate) |
-| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0268-missing-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
-| [0007-reverse-integer](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0007-reverse-integer) |
-| [0050-powx-n](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0050-powx-n) |
-| [0066-plus-one](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0066-plus-one) |
-| [0070-climbing-stairs](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0070-climbing-stairs) |
-| [0189-rotate-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0189-rotate-array) |
-| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
-| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [3723-maximize-sum-of-squares-of-digits](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3723-maximize-sum-of-squares-of-digits) |
-| [3886-sum-of-sortable-integers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3886-sum-of-sortable-integers) |
+| [0007-reverse-integer](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0050-powx-n) |
+| [0066-plus-one](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0189-rotate-array) |
+| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0628-maximum-product-of-three-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0033-search-in-rotated-sorted-array) |
-| [0035-search-insert-position](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0035-search-insert-position) |
-| [0162-find-peak-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0162-find-peak-element) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0852-peak-index-in-a-mountain-array) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2089-find-target-indices-after-sorting-array) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2333-minimum-sum-of-squared-difference) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
-| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
-| [0015-3sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0015-3sum) |
-| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0217-contains-duplicate) |
-| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0268-missing-number) |
-| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0628-maximum-product-of-three-numbers) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2089-find-target-indices-after-sorting-array) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2333-minimum-sum-of-squared-difference) |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3727-maximum-alternating-sum-of-squares) |
-| [3886-sum-of-sortable-integers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3886-sum-of-sortable-integers) |
+| [0015-3sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0015-3sum) |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0628-maximum-product-of-three-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0053-maximum-subarray) |
-| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
-| [0022-generate-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0022-generate-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0032-longest-valid-parentheses) |
-| [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0053-maximum-subarray) |
-| [0070-climbing-stairs](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0070-climbing-stairs) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0678-valid-parenthesis-string) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0022-generate-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Counting
 |  |
 | ------- |
-| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
-| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0169-majority-element) |
+| [0169-majority-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0169-majority-element) |
 ## Recursion
 |  |
 | ------- |
-| [0050-powx-n](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0050-powx-n) |
+| [0050-powx-n](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0015-3sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0027-remove-element) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0189-rotate-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0189-rotate-array) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
+| [0011-container-with-most-water](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0011-container-with-most-water) |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
-| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0678-valid-parenthesis-string) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [3723-maximize-sum-of-squares-of-digits](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3723-maximize-sum-of-squares-of-digits) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [0011-container-with-most-water](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3723-maximize-sum-of-squares-of-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
-| [1929-concatenation-of-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1929-concatenation-of-array) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2149-rearrange-array-elements-by-sign) |
-| [2553-separate-the-digits-in-an-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2553-separate-the-digits-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0238-product-of-array-except-self) |
-| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0303-range-sum-query-immutable) |
+| [0238-product-of-array-except-self](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0303-range-sum-query-immutable) |
 ## Design
 |  |
 | ------- |
-| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0303-range-sum-query-immutable) |
+| [0303-range-sum-query-immutable](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0303-range-sum-query-immutable) |
 ## String
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0022-generate-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0032-longest-valid-parentheses) |
-| [0058-length-of-last-word](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0058-length-of-last-word) |
-| [0301-remove-invalid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0301-remove-invalid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0678-valid-parenthesis-string) |
-| [0796-rotate-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0796-rotate-string) |
-| [0856-score-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0856-score-of-parentheses) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-| [1021-remove-outermost-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1021-remove-outermost-parentheses) |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [3863-minimum-operations-to-sort-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [0020-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0058-length-of-last-word) |
+| [0301-remove-invalid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0301-remove-invalid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3863-minimum-operations-to-sort-a-string) |
 ## Memoization
 |  |
 | ------- |
-| [0070-climbing-stairs](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0070-climbing-stairs) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [0070-climbing-stairs](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0032-longest-valid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0678-valid-parenthesis-string) |
-| [0856-score-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0856-score-of-parentheses) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-| [1021-remove-outermost-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1021-remove-outermost-parentheses) |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0020-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0022-generate-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0032-longest-valid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0678-valid-parenthesis-string) |
-| [0856-score-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0856-score-of-parentheses) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-| [1021-remove-outermost-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1021-remove-outermost-parentheses) |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0020-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
 | ------- |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
 | ------- |
-| [0796-rotate-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0796-rotate-string) |
+| [0796-rotate-string](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0796-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
-| [0022-generate-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0022-generate-parentheses) |
-| [0301-remove-invalid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0301-remove-invalid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
-| [0301-remove-invalid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0301-remove-invalid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0301-remove-invalid-parentheses) |
 ## Ternary Search
 |  |
 | ------- |
-| [0852-peak-index-in-a-mountain-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0852-peak-index-in-a-mountain-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
 | ------- |
-| [2778-sum-of-squares-of-special-elements](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2778-sum-of-squares-of-special-elements) |
-| [3886-sum-of-sortable-integers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/3886-sum-of-sortable-integers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Tree
 |  |
 | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
 | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
