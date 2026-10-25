@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0852-peak-index-in-a-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1254-number-of-closed-islands) |
 ## Ternary Search
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/dishantpatil-dev/Leet-Code-SLOVED/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
